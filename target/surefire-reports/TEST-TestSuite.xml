@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="10.076" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="16.0.1+9-24"/>
+    <property name="sun.boot.library.path" value="/Users/pramod/Library/Java/JavaVirtualMachines/openjdk-16.0.1/Contents/Home/lib"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/pramod/Documents/jenkinsdemo/Java-TestNG-Selenium"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/pramod/.jenkins/workspace/Hello Jenkins"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="16.0.1+9-24"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/d8/ds93y2fd3rbf5kpykg7wv05r0000gn/T/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/Users/pramod/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/mvn/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/pramod/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="maven.conf" value="/Users/pramod/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/mvn/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="60.0"/>
+    <property name="suite" value="single.xml"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.15.7"/>
+    <property name="library.jansi.path" value="/Users/pramod/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/mvn/lib/jansi-native"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/pramod"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="16"/>
+    <property name="user.name" value="pramod"/>
+    <property name="java.class.path" value="/Users/pramod/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/mvn/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -f /Users/pramod/Documents/jenkinsdemo/Java-TestNG-Selenium/pom.xml clean test -Dsuite=single.xml"/>
+    <property name="java.home" value="/Users/pramod/Library/Java/JavaVirtualMachines/openjdk-16.0.1/Contents/Home"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="16.0.1"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/Users/pramod/.jenkins/tools/hudson.tasks.Maven_MavenInstallation/mvn"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+  </properties>
+  <testcase name="basicTest" classname="com.lambdatest.TestNGTodo2" time="7.658"/>
+</testsuite>

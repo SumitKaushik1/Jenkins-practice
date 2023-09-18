@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-22T09:31:49Z" name="Suite" finished-at="2021-10-22T09:31:59Z" duration-ms="9816">
+    <groups>
+    </groups>
+    <test started-at="2021-10-22T09:31:49Z" name="Test" finished-at="2021-10-22T09:31:59Z" duration-ms="9816">
+      <class name="com.lambdatest.TestNGTodo2">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.lambdatest.TestNGTodo2@2db7a79b]" started-at="2021-10-22T09:31:49Z" name="setup" finished-at="2021-10-22T09:31:51Z" duration-ms="1909" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.lambdatest.TestNGTodo2.basicTest() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@fe18270]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="basicTest()[pri:0, instance:com.lambdatest.TestNGTodo2@2db7a79b]" started-at="2021-10-22T09:31:51Z" name="basicTest" finished-at="2021-10-22T09:31:59Z" duration-ms="7656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.lambdatest.TestNGTodo2@2db7a79b]" started-at="2021-10-22T09:31:59Z" name="tearDown" finished-at="2021-10-22T09:31:59Z" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lambdatest.TestNGTodo2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
